@@ -5,7 +5,7 @@
     "dist": {
         "url": "https://github.com/harvesthq/chosen/releases/download/v1.3.0/chosen_v1.3.0.zip",
         "type": "zip"
-    }
+    },
     "require": {
         "robloach/component-installer": "*"
     },
