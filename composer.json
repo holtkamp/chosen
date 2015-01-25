@@ -2,23 +2,13 @@
     "name": "harvesthq/chosen",
     "type": "component",
     "version": "1.3.0",
+    "dist": {
+        "url": "https://github.com/harvesthq/chosen/releases/download/v1.3.0/chosen_v1.3.0.zip",
+        "type": "zip"
+    }
     "require": {
         "robloach/component-installer": "*"
     },
-    "repositories": [
-        {
-            "type": "package",
-            "package": {
-                "name": "harvesthq/chosen",
-                "type": "component",
-                "version": "1.3.0",
-                "dist": {
-                    "url": "https://github.com/harvesthq/chosen/releases/download/v1.3.0/chosen_v1.3.0.zip",
-                    "type": "zip"
-                }
-            }
-        }
-    ],
     "extra": {
         "component": {
             "scripts": [
